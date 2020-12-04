@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "585649107890",
+    "project_id": "iterable-sa-2",
+    "storage_bucket": "iterable-sa-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585649107890:android:6d47ca666c00136a51eaab",
+        "android_client_info": {
+          "package_name": "com.example.iterableapplication1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585649107890-uvppntak0go1pfni6eumo131qldd6ope.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ3I108uIzlS0TrvJH9kbm5YmwL4i0exw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585649107890-uvppntak0go1pfni6eumo131qldd6ope.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585649107890:android:0bf50dc30d87429851eaab",
+        "android_client_info": {
+          "package_name": "com.example.iterablesa2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585649107890-uvppntak0go1pfni6eumo131qldd6ope.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ3I108uIzlS0TrvJH9kbm5YmwL4i0exw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585649107890-uvppntak0go1pfni6eumo131qldd6ope.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
